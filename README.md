@@ -1,6 +1,6 @@
 👋 Hello, World! I’m Shama Bano
 
-🎯 DevOps Specialist | Cloud Solutions Architect | Automation Enthusiast
+🎯 Azure DevOps Engineer  | Automation Enthusiast
 
 🌟 Who Am I?
 
